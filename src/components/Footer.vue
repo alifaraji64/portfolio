@@ -4,7 +4,7 @@
     <footer>
         <p>ali faraji &#169; all rights reserved</p>
         <div class="links">
-            <a href="https://www.instagram.com/alibtd0">
+            <a href="https://www.instagram.com/coding_eagle">
                <i class="fab fa-instagram fa-2x"></i>
             </a >
             <a href="https://codepen.io/ali-faraji-dev">

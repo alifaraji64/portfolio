@@ -35,7 +35,7 @@ main {
     left: 50%;
     transform: translate(-50%, -0);
     form {
-      max-height: 420px;
+      max-height: 440px;
       max-width: 400px;
       min-width:330px;
       border-radius: 10px;
@@ -43,6 +43,7 @@ main {
       flex-direction: column;
       align-items: center;
       padding-top: 30px;
+      padding-bottom: 30px;
       &::before {
         content: "";
         background: linear-gradient(

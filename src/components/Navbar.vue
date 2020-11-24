@@ -74,6 +74,7 @@ nav {
     }
   }
   aside {
+    display: none;
     position: absolute;
     right: 0;
     top: 0;
@@ -126,6 +127,7 @@ nav {
   .is-open {
     transform: translateX(0);
     width:100%;
+    display: block;
     ul li {
       animation: scaling 1.1s 0.5s 1 forwards ease-in;
     }

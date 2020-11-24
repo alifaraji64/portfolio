@@ -15,7 +15,7 @@
         </div>
       </div>
     </section>
-    <canvas></canvas>
+    <canvas class="wave"></canvas>
   </main>
 </template>
 
@@ -27,7 +27,7 @@ export default {
     },
   },
   mounted() {
-    const canvas = document.querySelector("canvas");
+    const canvas = document.querySelector(".wave");
     const c = canvas.getContext("2d");
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight / 6;
